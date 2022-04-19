@@ -1,7 +1,7 @@
 {
   "name": "thursreactapp",
   "version": "0.1.0",
-  "homepage": "https://tanyakhatcherian.tanyakhatcherian.io/react-gh-pages",
+  "homepage": "https://tanyakhatcherian.github.io/tanyakhatcherian/",
   "private": false,
   "dependencies": {
     "@emotion/react": "^11.9.0",
