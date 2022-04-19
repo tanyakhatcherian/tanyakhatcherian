@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.457c9ad4.css",
-    "main.js": "/react-gh-pages/static/js/main.a49983eb.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.457c9ad4.css.map": "/react-gh-pages/static/css/main.457c9ad4.css.map",
-    "main.a49983eb.js.map": "/react-gh-pages/static/js/main.a49983eb.js.map"
+    "main.css": "/tanyakhatcherian/static/css/main.457c9ad4.css",
+    "main.js": "/tanyakhatcherian/static/js/main.db7af8e0.js",
+    "static/media/logo.svg": "/tanyakhatcherian/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tanyakhatcherian/index.html",
+    "main.457c9ad4.css.map": "/tanyakhatcherian/static/css/main.457c9ad4.css.map",
+    "main.db7af8e0.js.map": "/tanyakhatcherian/static/js/main.db7af8e0.js.map"
   },
   "entrypoints": [
     "static/css/main.457c9ad4.css",
-    "static/js/main.a49983eb.js"
+    "static/js/main.db7af8e0.js"
   ]
 }
